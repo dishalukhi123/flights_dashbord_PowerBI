@@ -213,3 +213,13 @@ This project combines flight operations data into a single interactive
 Power BI solution covering **overview, performance, delays,
 cancellations, geographic analysis, and airline details**. The dashboard
 is designed to make operational insights easy to explore and present.
+
+
+
+## 🎥 Project Demo Video
+
+Watch the complete **HR Analytics Power BI Dashboard** demonstration:
+
+👉 [Watch the Project Demo Video on Google Drive](https://drive.google.com/drive/folders/1lzH4bqbRQYNX5H1agPFD_cF1Lr4Y8dnc)
+
+The video demonstrates the dashboard pages, navigation, KPIs, charts, filters, and HR insights.
