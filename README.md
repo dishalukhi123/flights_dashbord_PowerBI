@@ -220,6 +220,6 @@ is designed to make operational insights easy to explore and present.
 
 Watch the complete **HR Analytics Power BI Dashboard** demonstration:
 
-👉 [Watch the Project Demo Video on Google Drive](https://drive.google.com/drive/folders/1lzH4bqbRQYNX5H1agPFD_cF1Lr4Y8dnc)
+👉 [Watch the Project Demo Video on Google Drive](https://drive.google.com/file/d/1munxrrE_aUmZVf5ob_3AF99d8mbdiQED/view?usp=sharing)
 
 The video demonstrates the dashboard pages, navigation, KPIs, charts, filters, and HR insights.
